@@ -1,0 +1,2 @@
+# TRANSFER-LEARNING-BASED-VIDEO-SURVEILLANCE-FOR-ABNORMAL-ACTIVITY-DETECTION
+This Intelligent Surveillance System automates video monitoring to detect falls, fires, auto crashes, and weapons in real-time. It reduces the need for human monitoring, improves response times, and ensures accurate identification of critical events, enhancing safety and security through advanced algorithms and real-time analysis.
